@@ -11,7 +11,7 @@ doing some very interesting stuff with event streaming and microservices.<br>
 
 #### Wanna see something cool?
 Checkout this bibi vs covid-19 game: 
-[![](images/bibi_vs_covid.gif)](https://DavidMeu.github.io/bibi_vs_covid/)
+![bibi vs covid](images/bibi_vs_covid.gif)](https://github.com/DavidMeu/bibi_vs_covid/)
 
 
 <!--
