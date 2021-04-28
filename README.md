@@ -10,8 +10,8 @@ doing some very interesting stuff with event streaming and microservices.<br>
 (mainly in Python, but also some other programming languages).<br>
 
 #### Wanna see something cool?
-Checkout this bibi vs covid-19 game: 
-![bibi vs covid](images/bibi_vs_covid.gif)](https://github.com/DavidMeu/bibi_vs_covid/)
+Checkout this bibi vs covid-19 game:<br>
+[![](images/bibi_vs_covid.gif)](https://DavidMeu.github.io/bibi_vs_covid/)
 
 
 <!--
