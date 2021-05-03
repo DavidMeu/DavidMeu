@@ -9,7 +9,3 @@ I work at a Cyber security company 💻,<br>
 doing some very interesting stuff with event streaming and microservices.<br>
 (mainly in Python, but also some other programming languages).<br>
 
-#### Wanna see something cool?
-[bibi vs covid-19 game](https://github.com/DavidMeu/bibi_vs_covid.git)<br><br>
-![bibi_vs_covid](https://github.com/DavidMeu/bibi_vs_covid/blob/master/images/bibi_vs_covid.gif)
-
